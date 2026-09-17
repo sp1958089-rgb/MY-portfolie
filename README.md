@@ -1,1 +1,39 @@
 # MY-portfolie
+<!DOCTYPE html>
+<html>
+<head>
+<title>Siva Prasad Portfolio</title>
+<style>
+body{
+font-family:Arial;
+background:#0f172a;
+color:white;
+text-align:center;
+padding:40px;
+}
+.card{
+max-width:500px;
+margin:auto;
+background:#1e293b;
+padding:20px;
+border-radius:15px;
+}
+a{color:#38bdf8;text-decoration:none;}
+</style>
+</head>
+<body>
+<div class="card">
+<h1>Siva Prasad</h1>
+<p>B.Tech CSE (Data Science) | ANITS</p>
+
+<h2>Skills</h2>
+<p>C, Python, GitHub (Learning)</p>
+
+<h2>Project</h2>
+<p>PET Bottle Bluetooth Train</p>
+
+<h2>Contact</h2>
+<p><a href="https://github.com/sp1958089-rgb">GitHub</a></p>
+</div>
+</body>
+</html>
